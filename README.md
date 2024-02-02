@@ -1,16 +1,13 @@
-### Hi there 👋
+README.md
+About Me
+Hello there! 👋 I'm Artem, a passionate student at Arizona State University, currently immersed in the exciting world of application development.
 
-<!--
-**akitsenAr/akitsenAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Education
+Arizona State University
+Pursuing DEV with a focus on application development.
 
-Here are some ideas to get you started:
+💻 Technical Skills
+I have hands-on experience with a variety of technologies and tools, including but not limited to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: PHP
+Web Development: PHP
